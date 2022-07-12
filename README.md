@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Telegram_ID](https://t.me/Parsa_mohamad361)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... being!
 
