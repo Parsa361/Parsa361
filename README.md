@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... Practical Project
-- 🌱 I’m currently learning ... Django
+- 🌱 I’m currently learning ... Django, Vue
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Telegram_ID](https://t.me/Parsa_mohamad361)
