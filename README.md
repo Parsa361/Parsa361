@@ -7,4 +7,4 @@ Based in Tehran. I design and build websites, web apps and business automations 
 🌐 parsafarahani.com  
 📫 Reach me through the site or LinkedIn
 
-The pinned repos below are personal/practice projects. Most client work lives in private repos.
+Most pinned repos below are personal/practice projects; fact-checker is a real product build (AI pipeline, not a tutorial clone). Most client work lives in private repos.
